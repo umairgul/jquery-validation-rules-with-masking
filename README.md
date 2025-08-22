@@ -59,10 +59,6 @@ How it works (high level):
 - If you prefer the standalone Inputmask build, uncomment the `masking/inputmask.min.js` include and remove the jQuery binding file.
 - Consider adding explicit server-side validation for any submitted files and sensitive inputs (SSN, birth date) — masks and client-side validation are only for UX and convenience.
 
-## License
-
-This repository has no license specified. Add a `LICENSE` file if you want to apply an open source license.
-
 ## Acknowledgements
 
 - jQuery Validation plugin - https://jqueryvalidation.org/
